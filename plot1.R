@@ -51,7 +51,7 @@ cond     <- data$Date >= d.ini & data$Date <= d.end
 # DRAW GRAPHICS
 #------------------------------------------
 
-png( file   ="plot2.png"
+png( file   ="plot1.png"
      ,width  = 504
      ,height = 504 
      ,bg     = "transparent"
